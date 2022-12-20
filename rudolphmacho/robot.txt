@@ -1,0 +1,1 @@
+user-agent: Googlebot disallow: /user-agent: * disallow: /user-agent: : Adsbot-Googlebot disallow: /user-agent: Adsbot-Google-Mobile disallow: /
